@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="100" /></a>
+
 <!--
 **mattgg01/mattgg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
