@@ -19,5 +19,5 @@ I am a full stack web developer but focus on creating back end databases and dat
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/css3.png" height="50" /></a>
 
 
-###Connect with me on LinkedIn!
+<h1>Connect with me on LinkedIn!</h1>
 <a href="URL_REDIRECT" target="https://www.linkedin.com/in/matthew-i-gates/"><img align="center" src="https://www.drupal.org/files/project-images/linkedin_circle_logo.png" height="50" /></a>
