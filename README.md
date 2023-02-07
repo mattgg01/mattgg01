@@ -1,4 +1,4 @@
-### Hello! My name is Matt 👋
+### Hey! My name is Matt 👋
 
 From a young age scripting in the LUA language, to today practicing Full Stack Web Development, I have a driving passion for writing code and a strong feeling of reward to solve real world problems.
 
