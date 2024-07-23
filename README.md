@@ -1,8 +1,6 @@
-### Hey! My name is Matt 👋
+### Hey! My name is Matt
 
-From a young age scripting in the LUA language, to today practicing Full Stack Web Development, I have a driving passion for writing code and a strong feeling of reward to solve real world problems.
-
-I am a full stack web developer, and aspire to work on creating back end databases and data aggregation with a passion for scalability. 
+I am a full stack web developer, and like to work on strengthening & refining backend databases and data aggregation. 
 
 
 
