@@ -17,5 +17,5 @@ I am a full stack web developer, and like to work on strengthening & refining ba
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/css3.png" height="50" /></a>
 
 
-<h2>Connect with me on LinkedIn!</h2>
+<h2>Connect with me on LinkedIn</h2>
 <a href="https://www.linkedin.com/in/matthew-i-gates/" target="blank"><img align="center" src="https://www.drupal.org/files/project-images/linkedin_circle_logo.png" height="50" /></a>
